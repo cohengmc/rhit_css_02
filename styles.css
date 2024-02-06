@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+}
+
+/* TOP NAVBAR */
+
+#top_navbar{
+    display: flex;
+    justify-content: end;
+    background-color: maroon;
+    color: white;
+}
+
+.top_btn{
+    background: none;
+    border: 1px solid white;
+    color: white;
+}
+
+.top_item{
+    margin: 4px;
+}
+
+/* MAIN NAVBAR */
